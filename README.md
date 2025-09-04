@@ -7,7 +7,7 @@
 6. Houdini FX: Houdini FX is a useful tool for game devs to create complex and high definition visual effects and particles
 7. Adobe substance painter: It is useful for player character creation and editing
 8. Krita: Krita is incredibly useful for 2D/3D animation that can be easily ported to most game engines
-9. 
-10.
+9. Gamemaker: Gamemaker is an amazing game development engine that, dispite its limitation to pixelated 2D graphic, is very versitile in terms of development and access for coding.
+10. RPG Paper Maker: It is a very simple yet broad game engine that is incredibly simple to use on start out, and can be used for incredibly complex 3D polygon spaces
 
 
