@@ -10,4 +10,6 @@
 9. Gamemaker: Gamemaker is an amazing game development engine that, dispite its limitation to pixelated 2D graphic, is very versitile in terms of development and access for coding.
 10. RPG Paper Maker: It is a very simple yet broad game engine that is incredibly simple to use on start out, and can be used for incredibly complex 3D polygon spaces
 
-
+# 10 Career pathways that you can take for game development
+1. Game Programming
+## 12
