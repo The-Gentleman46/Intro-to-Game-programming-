@@ -14,10 +14,15 @@
 1. Game Programming, Where you program the background workings of a game by working with mechanics, functionality, etc
 2. Software Engineering, General computer science, where you work with most things concerning software
 3. Animation, The action of making some form of animation that can be for a game, for fun, or even for general entertainment of others
-5. Audio Engineering, Where you can either work with or create sounds/music for games or other forms of media
-6. Localization, the job of making a game or other peice of media accessable to other foreign cultures/people
-7. Game Art, creating sprites/scenes/setting or anything else that is shown to a player and making it look appealing
-8. Competitive, using skills to play/oversee teams of players on competitive games to play and become the best at the game
-9. Financial, 
+4. Audio Engineering, Where you can either work with or create sounds/music for games or other forms of media
+5. Localization, the job of making a game or other peice of media accessable to other foreign cultures/people
+6. Game Art, creating sprites/scenes/setting or anything else that is shown to a player and making it look appealing
+7. 
+
 
 ## Game Programming
+- AI, a Game programmer needs to have a basic understanding of the inner workings of various AIs to serve various purposes. Jobs include AI Programmer, AI manager, and AI Engineer
+- Gameplay, Probably the most important thing that a game can have, with it being the entire reason a game is made in the first place. Jobs include Systems Designer, Gameplay engineer, and Level Designer
+- Physics, Not needed for every game out there, but with the advancement of games recently, it is becoming significantly more important to have a fundemental understanding of how things would interact with the player as they would in real life. Jobs include Simulation Engineer, Physics Programmer, and Gameplay Engineer
+- Graphics, Not as prevelent but still as important, for to work with the inner workings of a game, you need to understand general limitations of whats being shown to the player. Jobs include Graphic Designer, Video Game Designer, and Artist
+- Network, A game programmer needs to understand networking and how to take advantage of any and all networks accessable. Jobs include Software Engineer, Network Engineer, and Quality Assurance.
