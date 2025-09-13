@@ -17,7 +17,10 @@
 4. Audio Engineering, Where you can either work with or create sounds/music for games or other forms of media
 5. Localization, the job of making a game or other peice of media accessable to other foreign cultures/people
 6. Game Art, creating sprites/scenes/setting or anything else that is shown to a player and making it look appealing
-7. 
+7. Game Design, working on all parts of a game, with work on frontend, backend, and everything inbetween
+8. Content manager, Ensuring that the intended content of a game is reached and doesn't step into areas that could jepordize the games success
+9. Finance manager, working to ensure that any funding for game creation is met and that all purchasable items needed are bought
+10. Marketing, working to advertise and see that any created content is successful in public media
 
 
 ## Game Programming
